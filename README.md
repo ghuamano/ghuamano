@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey, I'm Guille<br>Engineer by profession, programmer by vocation. <br>(Web designer and FullStack developer). <br>Currently based in Rimini, Italy 🇮🇹. <br>Specialized in creating unique applications.
+<br>Hey, I'm Guille<br>Engineer by profession, programmer by vocation. (Web designer and FullStack developer). <br>Currently based in Rimini, Italy 🇮🇹. <br>Specialized in creating unique applications.
 
 
 ## 🌐 Socials:
