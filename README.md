@@ -1,6 +1,6 @@
-# 💫 About Me:
-<br>Hey, I'm Guille<br>🎯 Industrial engineer turned code enthusiast with an unstoppable passion for web development. After diving headfirst into a full-stack web development bootcamp, I came out equipped with skills in PHP, Laravel, SQL, WordPress/WooCommerce, JavaScript, HTML, CSS, Bootstrap, Git, and GitHub.
-<br>🛠️ My journey through the industrial and commercial worlds sharpened my abilities in project management, problem-solving, process analysis, and resource optimization — all of which now fuel my tech side.<br>🚀 I’m on a mission to make the leap into the software development universe, bringing along a powerful mix of technical chops and leadership flair to help your dev team thrive.
+# 💫 About Me:<br>
+<br>Hey, I'm Guille<br>🎯 Industrial engineer turned code enthusiast with an unstoppable passion for web development. After diving headfirst into a full-stack web development bootcamp, I came out equipped with skills in PHP, Laravel, SQL, WordPress/WooCommerce, JavaScript, HTML, CSS, Bootstrap, Git, and GitHub.<br>
+<br>🛠️ My journey through the industrial and commercial worlds sharpened my abilities in project management, problem-solving, process analysis, and resource optimization — all of which now fuel my tech side.<br><br>🚀 I’m on a mission to make the leap into the software development universe, bringing along a powerful mix of technical chops and leadership flair to help your dev team thrive.
 
 
 
